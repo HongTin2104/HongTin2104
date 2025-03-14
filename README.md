@@ -3,8 +3,6 @@
 
 <img align="right" alt="recog" width="400" src="https://iencrypt.swell.life/62859eff76b5b923c9a888da2188b5e11598a3a7b267e6f6b61bcee983298c9f_SWELL_HIGH.gif">
 
-- 🌱 I’m currently learning **OpenCV, PyTorch**
-
 - 📫 How to reach me **hongtin2104@gmail.com**
 
 - 💻 My portfolio: [NguyenTin.github.io/](https://hongtin2104.github.io/NguyenTin.github.io/)
