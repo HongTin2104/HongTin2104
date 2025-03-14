@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hongtin2104@gmail.com**
 
-- 💻 My portfolio: [hongtin2104.github.io/NguyenTin.github.io/](https://hongtin2104.github.io/NguyenTin.github.io/)
+- 💻 My portfolio: [NguyenTin.github.io/](https://hongtin2104.github.io/NguyenTin.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
