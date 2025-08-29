@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Tin</h1>
-<h3 align="center">A computer science student from Vietnam</h3>
+<h3 align="center">Full Stack Developer with a Passion for AI</h3>
 
 <img align="right" alt="recog" width="400" src="https://iencrypt.swell.life/62859eff76b5b923c9a888da2188b5e11598a3a7b267e6f6b61bcee983298c9f_SWELL_HIGH.gif">
 
