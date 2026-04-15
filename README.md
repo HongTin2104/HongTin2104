@@ -20,18 +20,10 @@
 
 ### 🌐 Connect with me
 <p align="left">
-    <a href="https://www.linkedin.com/in/tin-hong-nguyen-0b442029b/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="38" width="38"/>
-    </a>
-    <a href="https://www.facebook.com/nguyentin2104" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="38" width="38"/>
-    </a>
-    <a href="https://www.hackerrank.com/profile/nguyentin2104" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="38" width="38"/>
-    </a>
-    <a href="https://leetcode.com/u/hongtin2104/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="38" width="38"/>
-    </a>
+    <a href="https://www.linkedin.com/in/tin-hong-nguyen-0b442029b/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="38" width="38"/></a>
+    <a href="https://www.facebook.com/nguyentin2104" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="38" width="38"/></a>
+    <a href="https://www.hackerrank.com/profile/nguyentin2104" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="38" width="38"/></a>
+    <a href="https://leetcode.com/u/hongtin2104/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="38" width="38"/></a>
 </p>
 
 ---
@@ -39,22 +31,16 @@
 ### 🔥 Languages and Tools
 
 <p align="left">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" style="margin-right: 12px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin-right: 12px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-icon.svg" alt="PyTorch" width="48" height="48" style="margin-right: 12px"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="48" height="48" style="margin-right: 12px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
-</p>
-
-<p align="left">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48" height="48" style="margin-right: 12px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="48" height="48" style="margin-right: 12px"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin-right: 12px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
-</p>
-
-<p align="left">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="48" height="48"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50" style="margin: 6px 8px 6px 0;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 6px 8px 6px 0;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50" style="margin: 6px 8px 6px 0;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50" style="margin: 6px 8px 6px 0;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin: 6px 8px 6px 0;"/>
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50" style="margin: 6px 8px 6px 0;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="margin: 6px 8px 6px 0;"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin: 6px 8px 6px 0;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin: 6px 8px 6px 0;"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50" style="margin: 6px 8px 6px 0;"/>
 </p>
 
 ---
