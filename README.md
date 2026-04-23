@@ -2,8 +2,8 @@
 
   <img src="https://img.shields.io/badge/Hello%2C%20HongTin2104-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
-  <h1>🌌 Welcome to my universe!</h1>
-  <h3>Full Stack Developer with a Passion for AI</h3>
+  <h1>🌌 Hi there, I am Nguyen Hong Tin!</h1>
+  <h3>Backend Developer & AI Engineer</h3>
   
   <br>
   <p>
@@ -16,14 +16,14 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 **Currently working as a Full Stack Developer**
-* 🌱 Passionate about **Artificial Intelligence**, Machine Learning and modern web technologies
-* 💡 I love turning ideas into reality with clean code and intelligent systems
-* 📚 Always learning and exploring new technologies
+* 🔭 **I am a Backend Developer & AI Engineer dedicated to building robust server-side architectures and intelligent systems.**
+* 🌱 I specialize in engineering high-performance backend platforms and integrating advanced artificial intelligence to solve real-world business challenges.
+* 💡 With a strong focus on system reliability and scalability, I deliver robust APIs and optimize backend operations.
+* 📚 I am driven by continuous learning—always exploring emerging technologies to bring modern, efficient, and innovative solutions to life.
 
 ### 💼 Portfolio
 
-* [View My Portfolio →](https://hongtin2104.github.io/NguyenTin.github.io/)
+* [View My Portfolio & Resume →](https://hongtin2104.github.io/)
 
 <br>
 
