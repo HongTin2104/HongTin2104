@@ -19,7 +19,7 @@
 * 🔭 **I am a Backend Developer & AI Engineer dedicated to building robust server-side architectures and intelligent systems.**
 * 🌱 I specialize in engineering high-performance backend platforms and integrating advanced artificial intelligence to solve real-world business challenges.
 * 💡 With a strong focus on system reliability and scalability, I deliver robust APIs and optimize backend operations.
-* 📚 I am driven by continuous learning—always exploring emerging technologies to bring modern, efficient, and innovative solutions to life.
+* 📚 I am driven by continuous learning, always exploring emerging technologies to bring modern, efficient, and innovative solutions to life.
 
 ### 💼 Portfolio
 
