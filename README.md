@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Hello%2C%20HongTin2104-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
-
   <h1>🌌 Hi there, I am Nguyen Hong Tin!</h1>
   <h3>Backend Developer & AI Engineer</h3>
   
